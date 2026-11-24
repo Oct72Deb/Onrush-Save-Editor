@@ -309,7 +309,7 @@ HTML = r"""<!DOCTYPE html>
   </div>
 </div>
 <div id="app-footer">
-  Created by Nanza & Daemon | Project Rusher | Version 2.0 | 2026
+  Created by Nanza & Daemon | Project Rusher | Version 1.0 | 2026
 </div>
 <div id="toast"></div>
 
